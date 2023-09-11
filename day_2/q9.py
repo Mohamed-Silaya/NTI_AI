@@ -1,4 +1,4 @@
-#q9
+# #q9
 def print_formatted(number):
     for i in range(1, number + 1):
         # Convert the number to decimal, octal, hexadecimal, and binary 
