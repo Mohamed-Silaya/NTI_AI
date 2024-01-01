@@ -1,0 +1,41 @@
+Classification Dataset:
+https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset
+Data Set Information:
+	The dataset consists of feature vectors belonging to 12,330 sessions. The dataset was formed so that each session would belong to a different user in
+	a 1-year period to avoid any tendency to a specific campaign, special day, user profile, or period.
+
+Content
+	The dataset consists of 10 numerical and 8 categorical attributes. The 'Revenue' attribute can be used as the class label.
+#############################################################################################################################################################
+Regression Dataset:
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+Description:
+	A simple yet challenging project, to predict the housing price based on certain factors like house area, bedrooms, furnished, nearness to mainroad,
+	etc. The dataset is small yet, it's complexity arises due to the fact that it has strong multicollinearity. Can you overcome these obstacles & build
+	a decent predictive model?
+#############################################################################################################################################################
+Clustering Dataset:
+https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
+Description:	
+	This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000
+	active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+	
+	
+
+
+
+regression:
+Multiple Regression
+polynomial
+
+Classification:
+Logistic
+Knn
+DT
+RF
+Nave base
+SVM :kernals
+
+	
+clustring
+Kmeans (using elbo method)

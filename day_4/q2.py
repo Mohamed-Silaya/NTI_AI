@@ -35,7 +35,7 @@ class Queue:
 # Create a new queue
 q1 = Queue("Queue1", 3)
 
-# Insert values into the queue
+# Insert values into the queue1
 q1.insert(5)
 q1.insert(10)
 q1.insert(15)
@@ -46,7 +46,7 @@ try:
 except OutRangeException as err:
     print(str(err)) 
 
-# Create another queue
+# Create queue2
 q2 = Queue("Queue2", 2)
 
 # Insert values into the second queue
